@@ -9,6 +9,8 @@ public class UnitTest {
 		
 		int z = a+b+c;
 		System.out.println(z);
+		String result = ("this is the multiply of above" + (a*b*c));
+		System.out.println(result);
 		
 	}
 
