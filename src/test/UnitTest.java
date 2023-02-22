@@ -10,6 +10,7 @@ public class UnitTest {
 		int z = a+b+c;
 		System.out.println(z);
 		
+		System.out.println("this is test text");
 	}
 
 }
